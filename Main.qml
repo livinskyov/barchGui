@@ -13,7 +13,7 @@ ApplicationWindow {
     minimumWidth: width
 
     visible: true
-    title: qsTr("Barch Compression")
+    title: qsTr("Компресія зображень «barch»")
 
     ImageList {}
 }
